@@ -1,4 +1,4 @@
-## TicTacToe
+##------- TicTacToe
 
 In this exercise we will complete the ReactJS Official Tutorial by completing the TicTacToe game. To complete this tutorial follow the step by step guide.
 
