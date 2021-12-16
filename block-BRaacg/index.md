@@ -1,4 +1,4 @@
-## How to solve the assignments
+-----------## How to solve the assignments
 
 - Go through all the requirements you will find in `TODO.md`
 - You will find the `TODO.md` file inside `code` folder
