@@ -1,0 +1,56 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 1250px;
+  margin: 0 auto;
+  padding: 40px;
+  font-size: larger;
+}
+span {
+  padding: 2px;
+  cursor: pointer;
+  font-weight: 700;
+}
+.nav {
+  text-decoration: none;
+  color: rgba(115, 115, 221, 0.767);
+}
+.active {
+  color: blue;
+  text-decoration: underline;
+}
+.main {
+  width: 1250px;
+  min-height: 70vh;
+
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+}
+.tags {
+  display: flex;
+  width: 25%;
+  list-style: none;
+  justify-content: space-between;
+  margin: 0 auto;
+  color: rgba(115, 115, 221, 0.767);
+}
+.card {
+  width: 1250px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+img {
+  width: 60%;
+  height: 150px;
+}
+.innerCard {
+  width: 18%;
+  background-color: rgba(190, 189, 189, 0.253);
+  border: 0.1px solid rgba(0, 0, 0, 0.342);
+  margin-bottom: 20px;
+}
+.theme {
+  cursor: pointer;
+}
